@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-09ez80.kujang138gold.site/sitemap.xml
